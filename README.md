@@ -19,3 +19,14 @@ The primary source of Data used here is Data sale.csv and this is an open source
 - SQL  serve (for Querying and Analysis)
 - Power BI (for creating a report)
 - Ms Power Point (for Presentation)
+
+### Data Cleaning and Preparation
+in the initial phase of the Data cleaning and preparations,m we perform the following action, 
+1. Data loading and inspection 
+2. Handling missing variable 
+3. Data Cleaning and formatting
+
+
+
+
+
